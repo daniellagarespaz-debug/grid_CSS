@@ -1,0 +1,26 @@
+.container {
+  font-size: 40px;
+  width: 100%;
+  background-color: LightGray;
+  display: grid;
+}
+
+.d1 {
+  background-color: red;
+}
+
+.d2 {
+  background-color: blue;
+}
+
+.d3 {
+  background-color: green;
+}
+
+.d4 {
+  background-color: orange;
+}
+
+.d5 {
+  background-color: purple;
+}
